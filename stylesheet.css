@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('subset-SegoeUI.woff2') format('woff2'),
+        url('subset-SegoeUI.woff') format('woff'),
+        url('subset-SegoeUI.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
